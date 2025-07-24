@@ -35,7 +35,7 @@ namespace Challenge_Labs_3._4
             while (flag);
             
             Console.WriteLine("The final string is: " + jumboLetters);
-
+            Console.WriteLine("The length of the final string is: " + jumboLetters.Length);
         }
     }
 }
